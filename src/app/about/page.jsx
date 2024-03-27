@@ -10,7 +10,8 @@ const About = () => {
   const aboutContent = [
     {
       title: "VISI KAMI",
-      description : "Mencapai masa depan cerah dengan hidup yang lebih sehat dan sejahtera dan menciptakan produk yang berkualitas  dengan permintaan pasar saat ini yang memiliki manfaat untuk sesama."
+      description : "Mencapai masa depan cerah dengan hidup yang lebih sehat dan sejahtera dan menciptakan produk yang berkualitas  dengan permintaan pasar saat ini yang memiliki manfaat untuk sesama.",
+      content:""
     },
     {
       title: "MISI KAMI",
@@ -35,11 +36,13 @@ const About = () => {
     },
     {
       title: "PRINSIP KAMI",
-      description : "Menciptakan bisnis yang sehat dan permintaan produk yang terus meningkat melalui distributor kami yang tersebar diseluruh kota besar di Indonesia. Kami berkomitmen untuk meningkatkan perekonomian pelanggan kami. Jaringan distributor membawa produk kami kepada masyarakat dan membuatnya mudah diakses oleh pelanggan kami."
+      description : "Menciptakan bisnis yang sehat dan permintaan produk yang terus meningkat melalui distributor kami yang tersebar diseluruh kota besar di Indonesia. Kami berkomitmen untuk meningkatkan perekonomian pelanggan kami. Jaringan distributor membawa produk kami kepada masyarakat dan membuatnya mudah diakses oleh pelanggan kami.",
+      content:""
     },
     {
       title: "TIM KAMI",
-      description : "Tim kami yang berasal dari berbagai macam latar belakang bisnis dan pengalaman dengan jiwa muda yang membara menggabungkan ide - ide brilian akan menciptakan suatu sitem bisnis yang luar biasa."
+      description : "Tim kami yang berasal dari berbagai macam latar belakang bisnis dan pengalaman dengan jiwa muda yang membara menggabungkan ide - ide brilian akan menciptakan suatu sitem bisnis yang luar biasa.",
+      content:""
     },
   ]
   return (
