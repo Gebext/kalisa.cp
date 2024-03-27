@@ -62,7 +62,7 @@ const Beranda = () => {
           </div>
 
           {/* Tagline dalam banner utama diisi disini */}
-          <div className="absolute inset-0 flex flex-col justify-center w-[300px] md:w-[400px] lg:w-[559px] pl-[20px] md:pl-[81px]">
+          <div className="absolute ml-4 inset-0 flex flex-col justify-center w-[300px] md:w-[400px] lg:w-[559px] pl-[20px] md:pl-[81px]">
             <p className="text-[30px] md:text-[48px]  text-primary1 text-wrap italic font-semibold">
               HIDUP LEBIH SEHAT DAN SEJAHTERA
             </p>
